@@ -5,9 +5,10 @@ Following this tutorial : https://towardsdatascience.com/simple-way-to-deploy-ma
 
 tf.Keras vision model to classify cat vs dog
 
-git clone https://github.com/CVxTz/keras_model_aws_ec2
 
 #### On EC2 instance :
+
+git clone https://github.com/CVxTz/keras_model_aws_ec2
 
 cd keras_model_aws_ec2
 
