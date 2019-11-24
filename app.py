@@ -35,4 +35,4 @@ def get_prediction():
 if __name__ == '__main__':
     h5_path = "model.h5"
     load_model(h5_path)
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=80)

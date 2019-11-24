@@ -3,3 +3,6 @@ Example of deploying a keras model to an aws ec2 Instance
 
 Following this tutorial : https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf
 tf.Keras vision model to classify cat vs dog
+
+sudo apt install docker.io
+sudo docker build -t app-dog .
